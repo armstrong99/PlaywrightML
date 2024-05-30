@@ -1,0 +1,9 @@
+products:
+  - name: product1
+    url: "https://www.amazon.com/product-reviews/B08J65DST5/"
+    review_selector: ".review-text-content span"
+    next_button_selector: ".a-last a"
+  - name: product2
+    url: "https://www.amazon.com/product-reviews/B07FZ8S74R/"
+    review_selector: ".review-text-content span"
+    next_button_selector: ".a-last a"
